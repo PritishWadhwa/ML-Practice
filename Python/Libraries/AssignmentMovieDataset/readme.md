@@ -1,0 +1,1 @@
+Task: To make a scatter plot between the Lenght of Movie title(on the X axis) and the Frequency of occurance of that length(on the Y axis)
